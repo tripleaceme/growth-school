@@ -27,7 +27,7 @@ GrediStore E-commerce Data Orchestration is a comprehensive project that handles
 ## How to Get Started
 
 - To begin, follow our guide on [Setting Up Airflow Locally with Virtual Environment](https://www.notion.so/ayoadeabel/Getting-Started-with-Airflow-57b11bb93ced4deeb6702fe236ff2888?pvs=4). This will walk you through the process of installing and configuring Airflow for your local environment.
-- Move the `Data Ochestration.py` to dags folder
+- Replace your DAG folder with the one in this repo.
 - Install PostgreSQL and its Admin (Official PostgreSQL RDBMS)
 - Install the following Python library:
     - Pandas
