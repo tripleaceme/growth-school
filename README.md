@@ -39,8 +39,8 @@ GrediStore E-commerce Data Orchestration is a comprehensive project that handles
     - pysycog2-binary
     - Numpy
     - openmeteo_requests
-    - requests_cache
-  And any library you're prompted to install.
+    - requests_cache <br>
+    And any library you're prompted to install.
 
 ## License
 
