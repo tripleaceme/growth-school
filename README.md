@@ -1,11 +1,6 @@
-# growth-school
-Data Orchestration with Airflow Workshop for GrowthSchool.io
-
 # GrediStore E-commerce Data Orchestration
 
-[Include a project logo or banner if you have one]
-
-Welcome to GrediStore's E-commerce Data Orchestration project! 🛒
+Welcome to GrediStore's E-commerce Data Orchestration project! 🛒 (Data Orchestration with Airflow Workshop for GrowthSchool.io)
 
 ## What We Do
 
