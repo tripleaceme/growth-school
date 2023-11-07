@@ -2,6 +2,8 @@
 
 Welcome to GrediStore's E-commerce Data Orchestration project! 🛒 (Data Orchestration with Airflow Workshop for GrowthSchool.io)
 
+![image](https://github.com/tripleaceme/growth-school/assets/24858281/ba52d3f3-8561-4a06-a3ff-386fd9abb6ba)
+
 ## What We Do
 
 GrediStore E-commerce Data Orchestration is a comprehensive project that handles data migration, integrates real-time weather information, and enables powerful visualizations for insightful decision-making.
@@ -36,6 +38,10 @@ GrediStore E-commerce Data Orchestration is a comprehensive project that handles
     - openmeteo_requests
     - requests_cache <br>
     And any library you're prompted to install.
+
+## Tableau Dashboard 
+
+You can access the Tableau dashboard [here](#)
 
 ## License
 
